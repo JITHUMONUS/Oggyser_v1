@@ -7,7 +7,7 @@
 <img src=OGGYSER.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/JITHUMONUS"><img title="Author" src="https://img.shields.io/badge/Author-JITHUMONUS/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JITHUMONUS"><img title="Author" src="https://img.shields.io/badge/Author-JITHUMONUS/Oggyser_v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -37,41 +37,41 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JITHUMONUS/Oggyser_v1.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Oggyser_v1/Oggyser_v1)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/JITHUMONUS/Amalser
-$ cd Amalser
+$ git clone https://github.com/JITHUMONUS/Oggyser_v1
+$ cd Oggyser_v1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Amalser.js
+$ node Oggyser_v1.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/JITHUMONUS/Amalser
-$ cd Amalser
+$ git clone https://github.com/JITHUMONUS/Oggyser_v1
+$ cd Oggyser_v1
 $ npm i
-$ node Amalser.js
+$ node Oggyser_v1.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/JITHUMONUS/Amalser">
+  <a href="httsp://github.com/JITHUMONUS/Oggyser_v1">
     
 <a href="https://github.com/JITHUMONUS/followers">
-<img src="https://img.shields.io/github/repo-size/JITHUMONUS/Amalser?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/JITHUMONUS/Oggyser_v1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/JITHUMONUS/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/JITHUMONUS?color=blue&style=flat-square"></a>
-<a href="https://github.com/JITHUMONUS/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JITHUMONUS/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/JITHUMONUS/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JITHUMONUS/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/JITHUMONUS/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JITHUMONUS/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser_v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JITHUMONUS/Oggyser_v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser_v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JITHUMONUS/Oggyser_v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Oggyser_v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JITHUMONUS/Oggyser_v1?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -81,14 +81,14 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JITHUMONUS&repo=Amalser&theme=nightowl)](https://github.com/JITHUMONUS/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JITHUMONUS&repo=Oggyser_v1&theme=nightowl)](https://github.com/JITHUMONUS/Oggyser_v1)
   </div>
     
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Amalser_v2 or we are not responsible for your account, 
+Oggyser_v1_v2 or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -100,14 +100,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![Oggyser_v1](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/JITHUMONUS.png?size=100)](https://github.com/JITHUMONUS) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Oggyser_v1](https://github.com/JITHUMONUS.png?size=100)](https://github.com/JITHUMONUS) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/JITHUMONUS) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz) | [Oggyser_v1](https://github.com/JITHUMONUS) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
   </div>
     
