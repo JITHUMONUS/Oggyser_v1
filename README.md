@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=OGGYSER.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JITHUMONUS"><img title="Author" src="https://img.shields.io/badge/Author-JITHUMONUS/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/JITHUMONUS">JITHUMONUS</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JITHUMONUS/Oggyser_v1.git)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
@@ -44,7 +44,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/JITHUMONUS/Amalser
 $ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -53,7 +53,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/JITHUMONUS/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
@@ -62,16 +62,16 @@ $ node Amalser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/JITHUMONUS/Amalser">
     
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/JITHUMONUS/followers">
+<img src="https://img.shields.io/github/repo-size/JITHUMONUS/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Amal-ser/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/JITHUMONUS?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JITHUMONUS/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JITHUMONUS/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/JITHUMONUS/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JITHUMONUS/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -81,7 +81,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JITHUMONUS&repo=Amalser&theme=nightowl)](https://github.com/JITHUMONUS/Amalser)
   </div>
     
 ### ⚠ Warning ⚠
@@ -105,9 +105,9 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/JITHUMONUS.png?size=100)](https://github.com/JITHUMONUS) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/JITHUMONUS) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
   </div>
     
